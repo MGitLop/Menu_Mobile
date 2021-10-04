@@ -1,0 +1,15 @@
+.btnMenu {
+  display: block;
+  background-image: url(../img/hamburger1.svg);
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  padding: 20px 15px;
+  text-indent: -9999px;
+}
+.btnMenu_open {
+  background-position: 15px center;
+}
+
+.btnMenu_close {
+  background-color: #747c81;
+}
